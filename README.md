@@ -62,7 +62,7 @@ pip install -r requirements.txt
 
 3. Run the Jupyter Notebook:
 ```bash
-jupyter notebook notebooks/Code.ipynb
+jupyter notebook notebooks/renewable-energy.ipynb
 ```
 
 ## Future Improvements
